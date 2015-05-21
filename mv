@@ -1,3 +1,0 @@
-Shell command used for moving or renaming files.
-Takes as its first argument a source i.e. the file to be moved or renamed.
-Takes as its second argument a target i.e. the new location or name for the file.
